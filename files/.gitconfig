@@ -1,0 +1,11 @@
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[user]
+	name = Brent Snook
+	email = brent@fuglylogic.com
+[core]
+	editor = "mate -w"
+[github]
+	user = brentsnook
