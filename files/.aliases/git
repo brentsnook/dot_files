@@ -3,7 +3,8 @@ color_ruby_words="--color-words='(:|@|@@|\$)?[a-zA-Z_][a-zA-Z0-9_]*[?!]?'"
 alias gs='git status'
 alias ga='git add'
 alias gau='git add -u'
-alias gp='git pull'
+alias pull='git pull'
+alias push='git push'
 alias gd='git diff'
 alias gdc='git diff --cached'
 alias gdw="git diff $color_ruby_words"
